@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T00:31:50+0900",
+  "generated_at": "2026-11-20T00:39:14+0900",
   "group_daily": [
     {
       "date": "2026-10-16",
@@ -377,6 +377,17 @@
     },
     {
       "date": "2026-11-19",
+      "sites": 26,
+      "max_first": 96,
+      "avg_first": 91.19,
+      "min_first": 91,
+      "max_repeat": 89.5,
+      "avg_repeat": 89.5,
+      "min_repeat": 89.5,
+      "rate_up": 1
+    },
+    {
+      "date": "2026-11-20",
       "sites": 26,
       "max_first": 96,
       "avg_first": 91.19,
